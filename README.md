@@ -1,5 +1,3 @@
-# Instagram-Reels-Friek
-
 <h1>React_Insta_Reels</h1>
 <p>A reel clone build using reactjs</p>
 <p>Having functionalities like :</p>
